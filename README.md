@@ -1,8 +1,11 @@
 # HOSPITAL MANAGEMENT SYSTEM for Addis Hiwot General Hospital.
 
 1-	Download the system from the github.com.  
-2-	Install Xampp on your local system.
-3-	Go to localhost add open the database 
+2-	Install Xampp on your local machin or pc.
+     go to C:\xampp\htdocs\   here copy the folder hospital hence C:\xampp\htdocs\hospital 
+3-	open Xampp and start both apache and mysql
+Go to the browser write localhost and click phpmyadmin 
+click the database icon
 4-	Create database under name hms.
 5-	Import Sql file from file system to database.
 6-	Copy the file under name hospital from the file to C:\xampp\htdocs 
